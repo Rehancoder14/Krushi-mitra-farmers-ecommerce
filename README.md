@@ -1,6 +1,6 @@
 # krushimitra
 
-A new Flutter project.
+A new E-Commerce based Flutter project for agricultural products.
 
 ## Getting Started
 
